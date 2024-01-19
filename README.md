@@ -1,5 +1,5 @@
 # LearningProject
-Google App Scrito 及び Jsを学習するための課題用リポジトリ
+Google App Scrito 及び Jsを学習するための課題用リポジトリ<br>
 Google のスプレッドシート
 伊豆市のラーメン屋さんの評価調査<br>
 ①食べログから★の評価とブックマーク数を抽出する<br>
